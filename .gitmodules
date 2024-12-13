@@ -1,0 +1,15 @@
+[submodule "services/Microservices.AccountService"]
+	path = services/Microservices.AccountService
+	url = https://github.com/ilyaghrischenko/Microservices.AccountService.git
+[submodule "services/Microservices.Shared"]
+	path = services/Microservices.Shared
+	url = https://github.com/ilyaghrischenko/Microservices.Shared.git
+[submodule "services/Microservices.ApiGateway"]
+	path = services/Microservices.ApiGateway
+	url = https://github.com/ilyaghrischenko/Microservices.ApiGateway.git
+[submodule "services/Microservices.TaskService"]
+	path = services/Microservices.TaskService
+	url = https://github.com/ilyaghrischenko/Microservices.TaskService.git
+[submodule "services/Microservices.NotificationService"]
+	path = services/Microservices.NotificationService
+	url = https://github.com/ilyaghrischenko/Microservices.NotificationService.git
